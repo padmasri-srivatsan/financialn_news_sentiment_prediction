@@ -1,0 +1,12 @@
+matplotlib 
+numpy 
+pandas
+seaborn
+torch
+IPython
+datasets 
+huggingface_hub
+scikit-learn
+torch
+transformers
+streamlit
